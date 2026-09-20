@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @neuromancer2022
-- 👀 I’m a computer scientist with knowledge and expertise in data science, machine learning, and systems analysis and design
-- 🌱 I’m currently learning about github and its connectivity with other platforms 
+- 👀 I’m a computer scientist with knowledge and expertise in data science, machine learning, and time-series forecasting
+- 🌱 I’m use github for all of my data science and machine learning pipelines 
 - 💞️ I’m working on a variety projects relating to data science
 - 📫 How to reach me ...
 
