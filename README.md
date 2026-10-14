@@ -8,7 +8,7 @@ Before that I spent eighteen years at Nottingham Trent University, finishing as 
 
 ## What you will find here
 
-Most of my client work lives in private repositories. The public ones are just fun projects I am working on when I have time:
+Most of my client work lives in private repositories. The public ones are really interesting projects I work on when time allows:
 
 - **DecisionReadyClassifier**: a credit-risk classifier evaluated under asymmetric decision costs, with calibration treated as a first-class result. Later stages add retrieval and constrained LLM explanations; the classifier stays the decision maker.
 
