@@ -16,7 +16,7 @@ Everything is Python, with a Makefile, a config file and a `results/` folder per
 
 ## Tools I actually use
 
-Python (pandas, scikit-learn, LightGBM, PyTorch, statsmodels), SQL, SHAP, MLflow, Docker, AWS. Recurrent networks for time series, gradient boosting for tabular problems, and a fair amount of econometrics (VAR, SARIMAX, regime switching) when the question calls for it.
+Python (pandas, scikit-learn, LightGBM, PyTorch, statsmodels), SQL, SHAP, MLflow, Docker, AWS. Recurrent networks for time series, gradient boosting for tabular problems, and a fair amount of econometrics (SVAR, SARIMAX, regime switching) when the question calls for it.
 
 ## Elsewhere
 
