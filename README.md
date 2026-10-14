@@ -8,10 +8,9 @@ Before that I spent eighteen years at Nottingham Trent University, finishing as 
 
 ## What you will find here
 
-Most of my client work lives in private repositories. The public ones are CPD projects and teaching material:
+Most of my client work lives in private repositories. The public ones are just fun projects I am working on when I have time:
 
 - **DecisionReadyClassifier**: a credit-risk classifier evaluated under asymmetric decision costs, with calibration treated as a first-class result. Later stages add retrieval and constrained LLM explanations; the classifier stays the decision maker.
-- **perceptronix_statistics_lab**: worked exercises from Practical Statistics for Data Scientists, done properly rather than skimmed.
 
 Everything is Python, with a Makefile, a config file and a `results/` folder per run. I like pipelines that can be re-run and audited six months later.
 
