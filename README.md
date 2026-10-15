@@ -1,4 +1,4 @@
-# Jon Tepper
+# Dr Jon Tepper
 
 Data scientist, Derby, UK. I build forecasting and classification systems that have to make decisions with real money or real policy behind them, and I care about whether the probabilities they produce can be trusted.
 
